@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/deploy?repository=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/deploy?repository=https://github.com/Deepshah0308/homeserver-land)
 
 ## Author
 **Deep Shah**  
